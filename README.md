@@ -56,3 +56,11 @@ Building real-world AI-powered solutions through Data Science, Machine Learning,
 
 - LinkedIn: https://www.linkedin.com/in/abhay-raghav-ai/
 - GitHub: https://github.com/abhay-raghav5
+
+---
+
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=abhay-raghav5&show_icons=true&theme=default)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-raghav5&layout=compact&theme=default)

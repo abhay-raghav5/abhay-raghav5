@@ -64,3 +64,15 @@ Building real-world AI-powered solutions through Data Science, Machine Learning,
 ![](https://github-readme-stats.vercel.app/api?username=abhay-raghav5&show_icons=true&theme=default)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-raghav5&layout=compact&theme=default)
+
+---
+
+## 🔥 Contribution Streak
+
+![](https://streak-stats.demolab.com?user=abhay-raghav5&theme=default)
+
+---
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=abhay-raghav5&theme=github)

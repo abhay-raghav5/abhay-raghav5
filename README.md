@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋, I'm Abhay Raghav
 
-<!--
-**abhay-raghav5/abhay-raghav5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Scientist & Data Analyst
 
-Here are some ideas to get you started:
+Building real-world AI-powered solutions through Data Science, Machine Learning, and Generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science student passionate about Data Science and Artificial Intelligence.
+- 📊 Building practical projects using Python, SQL, Pandas, and NumPy.
+- 🤖 Currently learning Machine Learning, Power BI, and Generative AI.
+- 💡 Interested in solving real-world problems through data-driven solutions.
+- 🚀 Actively seeking internship opportunities in Data Science, Data Analytics, and AI.
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Git
+- GitHub
+- Microsoft Excel
+- Visual Studio Code
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Statistics
+- Power BI
+- Generative AI
+
+---
+
+## 🚀 Featured Projects
+
+- House Price Prediction From Scratch
+- Employee Data Analyzer
+- PyNote Text Editor
+- Python Expense Tracker
+- Countdown Timer
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn
+- GitHub

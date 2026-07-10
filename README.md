@@ -18,14 +18,18 @@ Building real-world AI-powered solutions through Data Science, Machine Learning,
 
 ## 🛠 Tech Stack
 
-- Python
-- SQL
-- Pandas
-- NumPy
-- Git
-- GitHub
-- Microsoft Excel
-- Visual Studio Code
+-## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
 ---
 
@@ -50,5 +54,5 @@ Building real-world AI-powered solutions through Data Science, Machine Learning,
 
 ## 📫 Connect With Me
 
-- LinkedIn
-- GitHub
+- LinkedIn: https://www.linkedin.com/in/abhay-raghav-ai/
+- GitHub: https://github.com/abhay-raghav5

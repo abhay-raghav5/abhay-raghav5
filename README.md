@@ -69,19 +69,11 @@ My goal is to build impactful data-driven and AI-powered solutions by combining 
 
 ## 📫 Connect With Me
 
-<a href="mailto:abhayraghav4696@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+- 📧 **Email:** <a href="mailto:abhayraghav4696@gmail.com">abhayraghav4696@gmail.com</a>
 
-**Email:** abhayraghav4696@gmail.com
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/abhay-raghav-ai/">linkedin.com/in/abhay-raghav-ai</a>
 
-<a href="https://www.linkedin.com/in/abhay-raghav-ai/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/abhay-raghav5">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+- 💻 **GitHub:** <a href="https://github.com/abhay-raghav5">github.com/abhay-raghav5</a>
 
 </p>
 

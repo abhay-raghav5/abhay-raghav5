@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abhay Raghav
 
-### Aspiring Data Analyst | Data Science Enthusiast
+### Aspiring Data Analyst | Data Science Enthusiast | Generative AI Learner
 
 Passionate about building real-world data-driven solutions using Python, Data Visualization, and AI technologies.
 
@@ -10,9 +10,9 @@ Passionate about building real-world data-driven solutions using Python, Data Vi
 
 I'm passionate about transforming raw data into meaningful insights and solving real-world problems through analytics.
 
-I enjoy working with Python, data analysis, visualization, and continuously learning modern technologies in Data Science and Artificial Intelligence.
+I enjoy building practical projects using Python, data visualization, and AI while continuously exploring modern technologies in Data Science and Generative AI.
 
-Currently focused on building practical projects and strengthening my analytical and problem-solving skills.
+Currently focused on strengthening my analytical skills, building real-world projects, and learning Machine Learning and Generative AI.
 
 ---
 
@@ -63,7 +63,7 @@ Currently focused on building practical projects and strengthening my analytical
 
 ## 🎯 Career Goal
 
-My goal is to build impactful data-driven solutions and grow as a Data Analyst by applying analytical thinking, programming, and modern AI technologies to solve real-world business problems.
+My goal is to build impactful data-driven and AI-powered solutions by combining Data Analytics, Data Science, Machine Learning, and Generative AI to solve real-world business problems.
 
 ---
 
@@ -71,7 +71,7 @@ My goal is to build impactful data-driven solutions and grow as a Data Analyst b
 
 <p align="left">
 
-<a href="mailto:harry345@gmail.com">
+<a href="mailto:abhayraghav4696@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 

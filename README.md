@@ -75,30 +75,29 @@ I work across **Data Analytics, Data Science, Machine Learning, and Generative A
 - 💡 Data-driven Problem Solving
 
 ---
-
 ## 🤝 Let's Connect
 
-<p>
+<p align="center">
   <a href="mailto:abhayraghav4696@gmail.com">
     <img src="https://img.shields.io/badge/Email-abhayraghav4696%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-<p>
+  &nbsp;
   <a href="https://www.linkedin.com/in/abhay-raghav-ai/">
     <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Raghav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
+  &nbsp;
   <a href="https://github.com/abhay-raghav5">
     <img src="https://img.shields.io/badge/GitHub-Abhay%20Raghav-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-📧 **Email:** [abhayraghav4696@gmail.com](mailto:abhayraghav4696@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/abhay-raghav-ai](https://www.linkedin.com/in/abhay-raghav-ai/)  
-💻 **GitHub:** [github.com/abhay-raghav5](https://github.com/abhay-raghav5)
-
----
+<p align="center">
+  📧 <a href="mailto:abhayraghav4696@gmail.com">abhayraghav4696@gmail.com</a>
+  &nbsp; • &nbsp;
+  💼 <a href="https://www.linkedin.com/in/abhay-raghav-ai/">LinkedIn</a>
+  &nbsp; • &nbsp;
+  💻 <a href="https://github.com/abhay-raghav5">GitHub</a>
+</p>
 
 <p align="center">
   <b>Turning Data into Insights • Building Intelligent Solutions with AI</b>

@@ -77,30 +77,26 @@ I work across **Data Analytics, Data Science, Machine Learning, and Generative A
 ---
 ## 🤝 Let's Connect
 
-<p align="center">
+<p align="left">
   <a href="mailto:abhayraghav4696@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="28"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/abhay-raghav-ai/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="28"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/abhay-raghav5">
-    <img src="https://img.icons8.com/ios-filled/50/github.png" width="28"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="mailto:abhayraghav4696@gmail.com">abhayraghav4696@gmail.com</a>
+<p align="left">
+  📧 <a href="mailto:abhayraghav4696@gmail.com">abhayraghav4696@gmail.com</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/abhay-raghav-ai/">LinkedIn</a>
+  💼 <a href="https://www.linkedin.com/in/abhay-raghav-ai/">linkedin.com/in/abhay-raghav-ai</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/abhay-raghav5">GitHub</a>
-</p>
-
-<p align="center">
-  <i>Open to opportunities in Data Analytics, Data Science & Generative AI</i>
+  💻 <a href="https://github.com/abhay-raghav5">github.com/abhay-raghav5</a>
 </p>
 
 <p align="center">
